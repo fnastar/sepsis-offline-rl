@@ -6,7 +6,7 @@ The pipeline uses **25,442 ICU stays from MIMIC-IV v3.1**. It covers data prepar
 
 The main result was that estimated value and data support could disagree: the highest-scoring early policy often recommended actions rarely seen in similar patients. A control that always withheld treatment also scored favourably, showing the limits of interpreting these estimates as better care.
 
-[Read the thesis](https://github.com/fnastar/Thesis/blob/main/Thesis_v1.pdf) · [Detailed results](docs/results.md) · [Research reproduction](docs/reproduction.md)
+[Read the thesis](docs/thesis.pdf) · [Detailed results](docs/results.md) · [Research reproduction](docs/reproduction.md)
 
 ## Approach
 
